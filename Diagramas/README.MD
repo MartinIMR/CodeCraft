@@ -1,1 +1,2 @@
-Aquí se guardarán algunos diagramas del diseño de sistema
+Aquí se guardarán algunos diagramas del diseño de sistemaa
+N
